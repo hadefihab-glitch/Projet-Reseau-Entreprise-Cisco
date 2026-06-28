@@ -52,42 +52,51 @@ Des règles ACL sont utilisées pour contrôler l’accès entre les départemen
 - Cisco IOS
 - VLAN, VTP, DHCP, DNS, HTTP, ACL, VoIP
 
-## Captures d’écran
+## Captures d'écran
 
 ### Architecture
 
-![Architecture](architecture.png)
+![Architecture](screenshots/architecture.png)
 
 ### Création des VLANs
-![VLAN](vlan-creation.png)
+
+![VLAN](screenshots/vlan-creation.png)
 
 ### Configuration DHCP
-![DHCP](configuration-dhcp.png)
+
+![DHCP](screenshots/configuration-dhcp.png)
 
 ### Configuration DNS
-![DNS](configuration-dns.png)
+
+![DNS](screenshots/configuration-dns.png)
 
 ### Configuration HTTP
-![HTTP](configuraation-http.png)
+
+![HTTP](screenshots/configuraation-http.png)
 
 ### Configuration VoIP
-![VoIP](configuration-voip.png)
+
+![VoIP](screenshots/configuration-voip.png)
 
 ### Configuration ACL
-![ACL](configuration-acl.png)
+
+![ACL](screenshots/configuration-acl.png)
 
 ### Vérification DHCP
-![Vérification DHCP](verification-dhcp.png)
+
+![Vérification DHCP](screenshots/verification-dhcp.png)
 
 ### Vérification DNS
-![Vérification DNS](verification-dns.png)
+
+![Vérification DNS](screenshots/verification-dns.png)
 
 ### Vérification HTTP
-![Vérification HTTP](verification-http.png)
+
+![Vérification HTTP](screenshots/verification-http.png)
 
 ### Vérification VoIP
-![Vérification VoIP](verification-voip.png)
 
+![Vérification VoIP](screenshots/verification-voip.png)
 
 ## Comment ouvrir le projet
 1. Télécharger le fichier `.pkt`
