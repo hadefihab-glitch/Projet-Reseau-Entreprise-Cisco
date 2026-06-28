@@ -54,32 +54,40 @@ Des règles ACL sont utilisées pour contrôler l’accès entre les départemen
 
 ## Captures d’écran
 
+### Architecture
+
+![Architecture](architecture.png)
+
 ### Création des VLANs
-![VLAN](screenshots/vlan-creation.png)
+![VLAN](vlan-creation.png)
 
 ### Configuration DHCP
-![DHCP](screenshots/configuration-dhcp.png)
+![DHCP](configuration-dhcp.png)
 
 ### Configuration DNS
-![DNS](screenshots/configuration-dns.png)
+![DNS](configuration-dns.png)
 
 ### Configuration HTTP
-![HTTP](screenshots/configuration-http.png)
+![HTTP](configuraation-http.png)
 
 ### Configuration VoIP
-![VoIP](screenshots/configuration-voip.png)
+![VoIP](configuration-voip.png)
 
 ### Configuration ACL
-![ACL](screenshots/configuration-acl.png)
+![ACL](configuration-acl.png)
 
 ### Vérification DHCP
-![Verification DHCP](screenshots/verification-dhcp.png)
+![Vérification DHCP](verification-dhcp.png)
 
 ### Vérification DNS
-![Verification DNS](screenshots/verification-dns.png)
+![Vérification DNS](verification-dns.png)
 
 ### Vérification HTTP
-![Verification HTTP](screenshots/verification-http.png)
+![Vérification HTTP](verification-http.png)
+
+### Vérification VoIP
+![Vérification VoIP](verification-voip.png)
+
 
 ## Comment ouvrir le projet
 1. Télécharger le fichier `.pkt`
